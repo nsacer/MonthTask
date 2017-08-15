@@ -1,0 +1,7 @@
+#Mon Aug 14 01:37:27 CST 2017
+base.0=D\:\\WorkSpace\\MyProject\\MonthTask\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_741742a02678176a0d1c4f2f81809f4a3ea74ff1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\WorkSpace\\MyProject\\MonthTask\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5ece696eb3b9ce1eee8dcfefb66615b0ac3f4885\\classes.dex
+base.1=D\:\\WorkSpace\\MyProject\\MonthTask\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5ece696eb3b9ce1eee8dcfefb66615b0ac3f4885
+file.0=D\:\\WorkSpace\\MyProject\\MonthTask\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_741742a02678176a0d1c4f2f81809f4a3ea74ff1\\classes.dex

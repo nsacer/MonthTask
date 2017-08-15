@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\WorkSpace\MyProject\MonthTask\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ad8dd9b7eee70b46a453650e10c93439731a98e7">
+        <dex dex="D:\WorkSpace\MyProject\MonthTask\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_741742a02678176a0d1c4f2f81809f4a3ea74ff1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WorkSpace\MyProject\MonthTask\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\WorkSpace\MyProject\MonthTask\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5ece696eb3b9ce1eee8dcfefb66615b0ac3f4885\classes.dex" />
+    </item>
+
+</items>

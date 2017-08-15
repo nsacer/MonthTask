@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\WorkSpace\\MyProject\\MonthTask\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\drawer_empty.png",
+        "source": "D:\\WorkSpace\\MyProject\\MonthTask\\app\\src\\main\\res\\mipmap-hdpi\\drawer_empty.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\MyProject\\MonthTask\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_delete_white_24dp.png",
+        "source": "D:\\WorkSpace\\MyProject\\MonthTask\\app\\src\\main\\res\\mipmap-hdpi\\ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\MyProject\\MonthTask\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\WorkSpace\\MyProject\\MonthTask\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
