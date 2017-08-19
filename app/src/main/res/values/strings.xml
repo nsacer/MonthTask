@@ -3,4 +3,10 @@
     <string name="action_delete">清空数据</string>
     <string name="title_activity_task">TaskActivity</string>
     <string name="action_settings">Settings</string>
+    <string name="surplus">剩余</string>
+    <string name="date_start">开始日期</string>
+    <string name="date_end">结束日期</string>
+    <string name="target_time_after_current">起始日至少为今日</string>
+    <string name="target_time_start_first">请先选择起始日</string>
+    <string name="target_time_after_must">日期小于起始日！</string>
 </resources>

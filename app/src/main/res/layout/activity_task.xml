@@ -51,7 +51,7 @@
                             android:background="@color/colorAccent"
                             android:textColor="@color/colorWhite"
                             android:gravity="center"
-                            android:text="剩余"/>
+                            android:text="@string/surplus"/>
 
                         <TextSwitcher
                             android:id="@+id/tv_day_surplus"
@@ -70,7 +70,7 @@
                     android:layout_marginLeft="16dp"
                     android:layout_marginStart="16dp"
                     android:gravity="center_vertical"
-                    android:text="开始时间"
+                    android:text="@string/date_start"
                     android:textSize="12sp"
                     app:layout_constraintStart_toEndOf="@+id/cd_day_surplus"
                     app:layout_constraintTop_toTopOf="parent"/>
@@ -95,7 +95,7 @@
                     android:layout_marginLeft="16dp"
                     android:layout_marginStart="16dp"
                     android:gravity="center_vertical"
-                    android:text="结束时间"
+                    android:text="@string/date_end"
                     android:textSize="12sp"
                     app:layout_constraintStart_toEndOf="@+id/cd_day_surplus"
                     app:layout_constraintTop_toBottomOf="@+id/tv_start_value"/>
